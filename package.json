@@ -61,7 +61,7 @@
     "vue-images-loaded": "^1.1.2",
     "vue-infinite-loading": "^2.2.1",
     "vue-js-toggle-button": "^1.2.0",
-    "vue-moment": "^3.0.0",
+    "vue-moment": "^4.1.0",
     "vue-multiselect": "~2.1.0",
     "vue-notifications": "^0.9.0",
     "vue-prevent-parent-scroll": "^1.0.5",
