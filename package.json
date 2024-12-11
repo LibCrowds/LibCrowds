@@ -23,7 +23,7 @@
     "@nuxtjs/pwa": "^2.0.2",
     "@nuxtjs/sentry": "^1.0.3",
     "@nuxtjs/sitemap": "^0.1.1",
-    "async": "^2.6.1",
+    "async": "^3.2.2",
     "babel-polyfill": "^6.26.0",
     "bootstrap": "4.3.1",
     "bootstrap-vue": "^2.0.0-rc.6",
